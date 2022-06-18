@@ -1,2 +1,2 @@
 Git es un sistema de control de versiones distribuido, 
-El cual estoy aprendiendo ahora mismo
+El cual nos permite tener varias versiones
