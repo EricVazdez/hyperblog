@@ -1,2 +1,4 @@
 Git es un sistema de control de versiones distribuido, 
 El cual tengo que aprender
+
+Mi nombre es sermesoft y nacio en internet
